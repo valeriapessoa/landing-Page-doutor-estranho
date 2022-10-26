@@ -11,6 +11,8 @@
 
 A ideia desse projeto é trabalhar com animações.
 
+https://landing-page-doutor-estranho.vercel.app/
+
 ## 🔖 Layout
 
 ![Landing Page Doutor Estranho](/assets/images/landing-Page-doutor-estranho.png "Landing Page Doutor Estranho")
